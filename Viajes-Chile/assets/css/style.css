@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+.barra{
+    box-shadow:9px 10px 11px #05050534;
+    background-color: transparent;
+}
+.barra img{
+    width: 40px;
+    height: 40px;
+}
+.quienes{
+    color: white;
+    text-align: center;
+}
+.quienes-somos{
+    color: white;
+}
+hr{
+    background-color: rgb(50, 180, 180);
+    text-align: center;
+}
+.icono{
+    text-align: center;
+    background-color: rgb(50, 180, 180);
+    font-size: 30px;
+}
+.icono-column{
+    text-align: left;
+    font-size: 20px;
+}
+.destacado{
+    color: white;
+    text-align: center;
+}
+.tarjetas{
+    font-size: 18px;
+    color: white;
+    padding: 5%;
+    
+}
+.caja{
+    border-color: azure;
+}
+.card{
+    width: 100%;
+    background-color:rgb(50, 180, 180);
+}
+.typeform h3{
+    text-align: center;
+}
+.fab{
+    font-size: 35px;
+    margin: 5px;
+    color: white;
+}
+footer h3{
+    font-weight: bold;
+
+}
